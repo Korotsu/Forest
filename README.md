@@ -51,3 +51,6 @@ Other :
 - Foliage usage
 - Vertex color usage (https://twitter.com/rosiejarvisart/status/1413128566531792901)
 - You can swap between the day and the night, changing the appearance a lot
+
+![Trailer](./project/Forest/Ressources/ForestTrailer.mp4)
+![Walkthrough](./project/Forest/Ressources/Walkthrough.mp4)
